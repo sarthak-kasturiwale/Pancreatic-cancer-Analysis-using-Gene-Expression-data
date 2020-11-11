@@ -4,7 +4,8 @@
 - In this Study we are going to analyse the data by using Exploratory data analysis and Visualise the data using PCA.
 
 # Dataset Description
-- Data is stored in GCT (Gene Cluster text) format & we are going to analze it using PCA plots and GSVA Algorithms
+-Here we have a dataset of normalized RNA Sequencing reads for pancreatic cancer tumors. The measurement consists of ~20,000 genes for 183 pancreatic cancer tumors. The file format is GCT , a tab-delimited file used for sharing gene expression data and metadata (details for each sample) for samples.
+- GCT file: The GCT file format, a tab-delimited text-based format pairing matrix expression values with row and column metadata, allowing comparison of both transcriptional and contextual differences across samples. 
 
 # Approach of Analysis
 - Understanding the Objectives
